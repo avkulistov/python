@@ -11,4 +11,4 @@ def fib5(n: int) -> int:
 
 if __name__ == "__main__":
     print(fib5(6))
-    print(fib5(10))
+    print(fib5(50))
